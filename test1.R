@@ -1,0 +1,3 @@
+# holly tests script
+getwd()
+
